@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">扫码开锁检验</string>
+    <string name="encode_qrcode">生成二维码</string>
+    <string name="dencode_qrcode">扫码</string>
+    <string name="bike_number">单车编号</string>
+    <string name="lock_state">开锁结果</string>
+    <string name="http_failed">网络请求开锁失败,请检查网络后重试</string>
+    <string name="unlock_sucess">开锁成功</string>
+    <string name="unlock_failde">开锁失败</string>
+    <string name="clear">清除</string>
+    <string name="lack_par">缺少参数</string>
+    <string name="sign_err">验证出错,请检查sign参数</string>
+    <string name="no_find">设备未找到,该设备未连接到服务器</string>
+    <string name="no_online">设备不在线,请稍后重试</string>
+    <string name="out_of_time">请求设备该指令超时,请稍后重试</string>
+    //错误返回解读
+
+</resources>
